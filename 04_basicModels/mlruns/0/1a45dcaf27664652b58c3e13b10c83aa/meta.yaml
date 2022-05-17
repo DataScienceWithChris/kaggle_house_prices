@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20Projects/90_Kaggle/kaggle_house_prices/04_basicModels/mlruns/0/1a45dcaf27664652b58c3e13b10c83aa/artifacts
+end_time: 1652728515068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1a45dcaf27664652b58c3e13b10c83aa
+run_uuid: 1a45dcaf27664652b58c3e13b10c83aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652728187306
+status: 3
+tags: []
+user_id: chris
